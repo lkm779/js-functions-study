@@ -23,33 +23,41 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What is a function?
 
     ```
-    Please write your answer here.
+    A function is a definition of a stablished code or paremeter that lets you develop different arguments.
     ```
 
 1. What is the difference between function declaration and function expression?
 
     ```
-    Please write your answer here.
+    A function declaration is availabe throughout the global code and it can be referenced and linked whilst a expression is limited to where the function is available
     ```
 
 1. Write an example function declaration:
 
     ```js
-    /* Your Answer */
+    /* function calcDensity ("mass", "volume"
+    
+    return {mass*volume}
+    
+    console.log calcDensity()
+    */
     ```
 
 1. Write an example function expression:
 
     ```js
-    /* Your Answer */
+    /* const getDensity = function (mass, volume), {return mass*volume;}
+    }
+    console.log (getDensity());
+    */
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort:3
 
-    Clarity: 
+    Clarity:2
     ```
 
 ### Response Guidelines
